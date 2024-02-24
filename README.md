@@ -18,7 +18,7 @@
 ---
 ### 🔥 My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vctperez&theme=cobalt&background=000000&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vctperez&theme=cobalt&background=000000&type=svg)](https://git.io/streak-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=vctperez&show_icons=true&theme=cobalt&text_color=66ffbd&bg_color=000000&locale=en)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vctperez&hide_progress=true&bg_color=000000&&text_color=66ffbd)](https://git.io/streak-stats)
